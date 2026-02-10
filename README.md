@@ -3,7 +3,7 @@
 Landing page desenvolvida para o negócio local **Brilho Mágico**, focado em serviços de lavagem detalhada e estética automotiva.
 
 ## 🌐 Site online
-👉 [https://kawangabriel29.github.io/brilho-magico-lava-jato/](https://kawangabriel29.github.io/Brilho-magico-Studio-automotivo/)
+👉 https://kawangabriel29.github.io/BrilhoMagico-Studio/
 
 ## 🔧 Tecnologias utilizadas
 - HTML5
